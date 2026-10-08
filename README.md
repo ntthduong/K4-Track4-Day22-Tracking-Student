@@ -2,6 +2,14 @@
 
 Nhóm 2 người một máy. Detector đã khóa. Bạn chọn tracker và ngưỡng cho năm video khác cảnh.
 
+## Bài nộp của nhóm MotMinhTui
+
+**Thành viên:** Nguyễn Thị Thùy Dương · **MSSV:** 2A202602905.
+
+[Báo cáo đã điền](submission/MotMinhTui/BAO_CAO.md) và năm file kết quả nằm trong [submission/MotMinhTui](submission/MotMinhTui/). Kết quả đã chạy đủ 5 video; thư mục quan_sat chứa ảnh minh họa cho phân tích trong báo cáo. Bảng điểm gốc của video_1 nằm trong [video_1_summary.txt](submission/MotMinhTui/video_1_summary.txt).
+
+Video_1 chọn BoT-SORT, conf=0.3, iou=0.7: **HOTA 29.969, MOTA 19.025, IDF1 29.703**.
+
 ## Việc cần làm
 
 1. Tạo môi trường một lần:
